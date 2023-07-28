@@ -49,7 +49,7 @@ git clone https://github.com/ajitpatel28/SwipeAndroidAssignment
 
 6. Optionally, click on the "Attachment Icon" button to select an image for the new product.
 
-7. Click on the "Submit" button to add the product. You will see a success message if the product is added successfully.
+7. Click on the "Add Product" button to add the product. You will see a success message if the product is added successfully.
 
 
 
